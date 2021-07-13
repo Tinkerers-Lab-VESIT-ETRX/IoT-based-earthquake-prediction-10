@@ -1,0 +1,23 @@
+.header{
+	color: rgb(240,240,240);
+	background-color: rgb(150,150,150);
+	text-align: center;
+	text-shadow: 1px 1px 3px black;
+	font-size: 20px;
+	padding: 5px;
+	}
+
+.topnav {
+	background-color: rgb(60,60,60);
+	color:rgb(240,240,240);
+	padding: 10px 10px 10px 50px;
+	}
+
+body {
+	margin:0; 
+	background-color: rgba(255,165,0,0.4);
+	}
+
+#chartContainer{
+	margin-top: 20px;
+	} 
